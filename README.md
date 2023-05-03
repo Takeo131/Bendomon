@@ -6,3 +6,5 @@ incoming :
 - Carte des contrées
 - Collectionner les cartes -- login/userprofile
 - ajout d'information détaillés
+
+live version : https://takeo131.github.io/Bendomon/
